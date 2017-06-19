@@ -1,10 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
 
 
 
@@ -759,21 +757,6 @@ blockquote {
 #features8-m .mbr-section-subtitle {
   text-transform: uppercase;
 }
-#footer7-g FONT {
-  color: #dddddd;
-}
-#footer7-g P {
-  color: #dddddd;
-  font-size: 14px;
-}
-#footer7-g .mbr-section-subtitle {
-  text-align: left;
-  font-family: 'Oxygen', sans-serif;
-  color: #ffffff;
-}
-#footer7-g .mbr-section-subtitle FONT {
-  color: #ffffff;
-}
 #features8-l .lead {
   color: #9fa3a7;
 }
@@ -786,4 +769,24 @@ blockquote {
 }
 #features8-l .mbr-section-text {
   color: #9fa3a7;
+}
+#features8-o .lead {
+  color: #9fa3a7;
+}
+#features8-o .mbr-section-subtitle {
+  text-transform: uppercase;
+  color: #ffffff;
+}
+#features8-o .mbr-section-text {
+  color: #ffffff;
+}
+#features8-o .mbr-section-subtitle FONT {
+  color: #f1c40f;
+}
+#content3-q .mbr-section-title,
+#content3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-q P {
+  color: #ffffff;
 }

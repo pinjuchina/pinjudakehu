@@ -348,7 +348,7 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-2619-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-261999-600x384.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

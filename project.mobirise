@@ -283,46 +283,6 @@
           "text": "<b><font color=\"#000000\">www</font>.pinjuvip.com</b><br>&nbsp; 有情怀的互联网租房服<font color=\"#000000\">务</font><br>"
         },
         {
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/features/03.jpg",
-              "class": ""
-            }
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials3",
-          "_anchor": "testimonials3-n",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/grass.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#233f5b",
-            "bgCardImage": "@PROJECT_PATH@/assets/images/boy.jpg",
-            "showText": true,
-            "showTitle": true,
-            "showSubtitle": true,
-            "showButtons": false
-          },
-          "text": "\"First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap theme design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world\"",
-          "title": "PANAJOT JELEV",
-          "subtitle": "Head of Online Communication  at Swisscom",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
-        },
-        {
           "_styles": {
             ".lead": {
               "color": "#9fa3a7"
